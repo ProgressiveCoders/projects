@@ -1,4 +1,4 @@
-![Chi Hack Night](https://chihacknight.org/images/logo/logo.png "Chi Hack Night")
+![Progressive Coders Network](http://i.imgur.com/MPzJNPv.png "Progressive Coders Network")
 
 # Progressive Coders Network -- Projects Catalog
 
