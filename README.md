@@ -3,7 +3,7 @@
 # Progressive Coders Network -- Projects Catalog
 
 
-These are projects and groups being formed from week to week. Some may last for only a day and not be touched forever, and some may have been progressing for months with tens of volunteers, millions of users. To keep track of these fluctuating groups, we use GitHub issues to open, close and update groups over time. Reachout to the project leader by commenting, or following the `communication` section.
+These are projects and groups being formed from week to week. These projects can be an `idea` that you would want to discuss and conceptualize further, or `active` where there's development ongoing. Some may last for only a day and not be touched forever, and some may have been progressing for months with tens of volunteers, millions of users. To keep track of these fluctuating groups, we use GitHub issues to open, close and update groups over time. Reachout to the project leader by commenting, or following the `communication` section.
 
 You can see the full list of projects in the [issues list for this GitHub repository](https://github.com/ProgressiveCoders/projects-catalog/issues).
 
